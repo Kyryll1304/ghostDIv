@@ -1,0 +1,12 @@
+input {
+  display: block;
+  width: 25vw;
+  text-align: left;
+  margin: 0 auto;
+  margin-top: 5%;
+}
+
+#ghost {
+  display: none;
+  margin: 5%;
+}
